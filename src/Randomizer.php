@@ -417,7 +417,7 @@ class Randomizer
      * @param string $lang
      * @return string
      */
-    public static function generate($lang = self::LANG_ID)
+    public static function generate()
     {
         // Cycle through the wordset
         for ($i = (count(self::$wordset) - 1); $i > 0; $i--)
