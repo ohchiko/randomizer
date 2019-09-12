@@ -1,8 +1,10 @@
 ## Radomizer
 
-Randomizer is a laravel helper that helps your application to generate a random string.
+Randomizer is a php helper that helps your application to generate a random string.
 
 Randomizer would allow you to choose the language for the randomized text (available language only).
+
+This helper is initially purposed to generate a user's password.
 
 ## Installation
 
