@@ -8,7 +8,7 @@
         "ohchiko",
         "password"
     ],
-    "type": "project",
+    "type": "library",
     "homepage": "https://github.com/ohchiko/randomizer",
     "license": "MIT",
     "authors": [
