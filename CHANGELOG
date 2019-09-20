@@ -1,0 +1,43 @@
+# Changelog
+All notable changes in this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [0.1.0] - 2019-09-20
+### Added
+- Included phpunit in composer.json for testing
+- Created custom exceptions
+- Added new methods (refer to README for detail)
+- Added code-coverage test
+- Created CHANGELOG
+
+### Changed
+- Updated README
+- Changed properties name and structure
+- Improved the randomization process, less memory used
+- Improved test case
+- Start following [SemVer](https://semver.org) properly
+- Updated releases tag name
+
+### Fixed
+- Fixed 'invalid index' error upon randomization
+
+## [0.0.3] - 2019-09-12
+### Changed
+- Changed package type from 'project' to 'library' in composer.json
+
+## [0.0.2] - 2019-09-12
+### Fixed
+- Fix invalid php version constraint in composer.json
+
+## [0.0.1] - 2019-09-12
+Initial release.
+
+[Unreleased]: https://github.com/ohchiko/randomizer/compare/0.1.0...HEAD
+[0.1.0]: https://github.com/ohchiko/randomizer/compare/0.0.3...0.1.0
+[0.0.3]: https://github.com/ohchiko/randomizer/compare/0.0.2...0.0.3
+[0.0.2]: https://github.com/ohchiko/randomizer/compare/0.0.1...0.0.2
+[0.0.1]: https://github.com/ohchiko/randomizer/releases/tag/0.0.1
