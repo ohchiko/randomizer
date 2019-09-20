@@ -1,6 +1,7 @@
 {
     "name": "ohchiko/randomizer",
     "description": "A laravel helper to generate random text. Initial purpose is for user password.",
+    "version": "0.1.0",
     "keywords": [
         "randomizer",
         "generator",
